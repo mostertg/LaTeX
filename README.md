@@ -1,2 +1,6 @@
 # LaTeX
-Repo for pesonal LaTeX publishing.
+Repo for personal LaTeX publishing.
+
+## Contents
+===========
+* NUST Report template
